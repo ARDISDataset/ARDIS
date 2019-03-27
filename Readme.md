@@ -7,6 +7,7 @@ by different priests with various handwriting styles in the nineteenth and twent
 dataset includes 10;000 samples in Red-Green-Blue (RGB) color space, whereas, the other datasets contain 7;600 single digit images in different color spaces.
 
 
+
 II.  Acceptance of this Agreement
 
 By downloading or otherwise accessing the Materials, Downloader represents his/her acceptance of the terms of this Agreement.
@@ -14,11 +15,12 @@ By downloading or otherwise accessing the Materials, Downloader represents his/h
 III. Use of the Materials
 
 If you use any of these data sets, please cite that as:
+
 Huseyin Kusetogullari, Amir Yavariabdi, Abbas Cheddad, Håkan Grahn and Johan Hall, 2019, "ARDIS: A Swedish Historical Handwritten Digit Dataset," Accepted for publication in Neural Computing and Applications, Springer.
 DOI: 10.1007/s00521-019-04163-3
 
 
-IV.
+IV. ARDIS Dataset
 We plan to upload the data sets soon, stay tuned. 
 
 
