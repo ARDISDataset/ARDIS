@@ -67,5 +67,8 @@ x_test = x_test.reshape(x_test.shape[0], 1, 28, 28).astype('float32')
 
 Please give us feedback/suggestions to improve the dataset.
 
+Huseyin Kusetogullari: huseyinkusetogullari@gmail.com
+Abbas Cheddad: abbas.cheddad@bth.se
+
 Blekinge Institute of Technology
 Karlskrona, Sweden on: 2019-03-28
