@@ -1,4 +1,10 @@
-## ARDIS Agreement
+#                                                THE ARDIS DATASET
+#                                               of Handwritten Digits
+                                                Huseyin Kusetogullari, Dept. of Computer Science, BTH
+                                                    Abbas Cheddad, Dept. of Computer Science, BTH
+                                                      Johan Hall, Arkiv Digital
+                                                    Amir Yavariabdi, Dept. of Mechatronics, KTO Karatay
+                                                     Håkan Grahn, Dept. of Computer Science, BTH
 
 I. Description of the Dat Sets
 
