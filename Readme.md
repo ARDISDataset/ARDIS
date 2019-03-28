@@ -13,7 +13,7 @@
 
 This is a new image-based handwritten historical digit dataset named ARDIS (Arkiv Digital Sweden). The images in ARDIS dataset are extracted from 15.000 Swedish church records which were written by different priests with various handwriting styles in the nineteenth and twentieth centuries. The constructed dataset consists of three single digit datasets and one digit strings dataset. The digit strings dataset includes 10.000 samples in Red-Green-Blue (RGB) color space, whereas, the other datasets contain 7.600 single digit images in different color spaces.
 
-![test image size](https://github.com/ARDISDataset/ARDIS/blob/master/ARDIS.png){:height="50%" width="50%"}
+<img src="https://github.com/ARDISDataset/ARDIS/blob/master/ARDIS.png" width="400" height="300">
 
 Further details of the ARDIS dataset can be obtained in our accepted paper:
 #### Huseyin Kusetogullari, Amir Yavariabdi, Abbas Cheddad, Håkan Grahn and Johan Hall, 2019, "ARDIS: A Swedish Historical Handwritten Digit Dataset," Accepted for publication in Neural Computing and Applications, Springer.
