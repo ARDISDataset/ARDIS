@@ -6,7 +6,7 @@
 ####                                                    Amir Yavariabdi, Dept. of Mechatronics, KTO Karatay
 ####                                                     Håkan Grahn, Dept. of Computer Science, BTH
 
-#### Huseyin Kusetogullari, Amir Yavariabdi, Abbas Cheddad, Håkan Grahn and Johan Hall, 2019, "ARDIS: A Swedish Historical Handwritten Digit Dataset," Accepted for publication in Neural Computing and Applications, Springer.
+#### "ARDIS: A Swedish Historical Handwritten Digit Dataset", Neural Computing and Applications, Springer, 2019.
 
 ## I. Description of the Dat Sets
 
