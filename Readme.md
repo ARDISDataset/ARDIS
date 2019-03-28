@@ -24,7 +24,7 @@ Further details of the ARDIS dataset can be obtained in our accepted paper:
 By downloading or otherwise accessing the Materials, Downloader represents his/her acceptance of the terms of this Agreement.
 
 
-## III. Use of the Materials
+## III. References
 
 If you use any of these data sets, please cite that as:
 
@@ -33,6 +33,8 @@ If you use any of these data sets, please cite that as:
 
 
 ## IV. ARDIS Dataset
+
+ARDIS_DATASET_IV
 We plan to upload the data sets soon, stay tuned. 
 
 
