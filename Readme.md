@@ -34,15 +34,34 @@ If you use any of these data sets, please cite that as:
 
 ## IV. ARDIS Dataset
 
-#### DATASET_IV: https://github.com/ARDISDataset/ARDIS/blob/master/ARDIS_DATASET_IV.rar
+#### DATASET_IV: It contains ARDIS 6600 training and 1000 testing images in .csv files. 
+
+ARDIS_train_2828.csv
+ARDIS_train_labels.csv
+ARDIS_test_2828.csv
+ARDIS_test_labels.csv
+
+#### You can download DATASET_IV from the following link: https://github.com/ARDISDataset/ARDIS/blob/master/ARDIS_DATASET_IV.rar
 
 We plan to upload the other data sets soon, stay tuned. 
 
+## V. Implementation
 
-## V. Feedback or Comments
+#### DATASET_IV
+#### In Python
+x_train=np.loadtxt('.../ARDIS_train_2828.csv', dtype='float')
+x_test=np.loadtxt('.../ARDIS_test_2828.csv', dtype='float')
+y_train=np.loadtxt('.../ARDIS_train_labels.csv', dtype='float')
+y_test=np.loadtxt('.../ARDIS_test_labels.csv', dtype='float')
+
+
+#### reshape to be [samples][pixels][width][height]
+x_train = x_train.reshape(x_train.shape[0], 1, 28, 28).astype('float32')
+x_test = x_test.reshape(x_test.shape[0], 1, 28, 28).astype('float32')
+
+## VI. Feedback or Comments
 
 Please give us feedback/suggestions to improve the dataset.
-
 
 Blekinge Institute of Technology
 Karlskrona, Sweden on: 2019-03-28
