@@ -37,8 +37,4 @@ Please give us feedback/suggestions to improve the dataset.
 
 
 Blekinge Institute of Technology
-Karlskrona on: 2019-03-21
-
-Written by:
-Abbas Cheddad on behalf of the team:
-Huseyin Kusetogullari, Amir Yavariabdi, Abbas Cheddad, Håkan Grahn and Johan Hall
+Karlskrona, Sweden on: 2019-03-28
