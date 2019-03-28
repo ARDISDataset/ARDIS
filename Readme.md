@@ -6,13 +6,16 @@
 #####                                                    Amir Yavariabdi, Dept. of Mechatronics, KTO Karatay
 #####                                                     Håkan Grahn, Dept. of Computer Science, BTH
 
+
 #### "ARDIS: A Swedish Historical Handwritten Digit Dataset", Neural Computing and Applications, Springer, 2019.
 
 ## I. Description of the Dat Sets
 
 This is a new image-based handwritten historical digit dataset named ARDIS (Arkiv Digital Sweden). The images in ARDIS dataset are extracted from 15.000 Swedish church records which were written by different priests with various handwriting styles in the nineteenth and twentieth centuries. The constructed dataset consists of three single digit datasets and one digit strings dataset. The digit strings dataset includes 10.000 samples in Red-Green-Blue (RGB) color space, whereas, the other datasets contain 7.600 single digit images in different color spaces.
 
-
+Further details of the ARDIS dataset can be obtained in our accepted paper:
+#### Huseyin Kusetogullari, Amir Yavariabdi, Abbas Cheddad, Håkan Grahn and Johan Hall, 2019, "ARDIS: A Swedish Historical Handwritten Digit Dataset," Accepted for publication in Neural Computing and Applications, Springer.
+#### DOI: 10.1007/s00521-019-04163-3
 
 ## II.  Acceptance of this Agreement
 
