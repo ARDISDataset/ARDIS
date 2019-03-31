@@ -90,21 +90,17 @@ more info here >> <a href = "https://raw.githubusercontent.com/ardisdataset/ARDI
 <p>
 #### DATASET_IV
 <br>#### In Python
- p {
-  font-family: Courier New;
-}
+ <font face="Courier New">
 <br>x_train=np.loadtxt('.../ARDIS_train_2828.csv', dtype='float')
 <br>x_test=np.loadtxt('.../ARDIS_test_2828.csv', dtype='float')
 <br>y_train=np.loadtxt('.../ARDIS_train_labels.csv', dtype='float')
-<br>y_test=np.loadtxt('.../ARDIS_test_labels.csv', dtype='float') </p>
+<br>y_test=np.loadtxt('.../ARDIS_test_labels.csv', dtype='float') </font>
     </p>
 <p>
 <br>#### reshape to be [samples][pixels][width][height]
-  p {
-  font-family: Courier New;
-}
+ <font face="Courier New">
 <br>x_train = x_train.reshape(x_train.shape[0], 1, 28, 28).astype('float32')
-  <br>x_test = x_test.reshape(x_test.shape[0], 1, 28, 28).astype('float32') </p>
+  <br>x_test = x_test.reshape(x_test.shape[0], 1, 28, 28).astype('float32') </font>
   </p>
 
 <p align="justify"><b>V. Feedback or Comments</b></p>
